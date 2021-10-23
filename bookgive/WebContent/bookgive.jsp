@@ -108,7 +108,7 @@
 		<div class="slide">
 			<ul class="imgSlide">
 				<li><img
-					src="#1.jpg"
+					src="#.jpg"
 					alt=""></li>
 				<li><img
 					src="#.jpg"
